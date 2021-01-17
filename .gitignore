@@ -1,0 +1,7 @@
+/*/
+!software/
+!ip/
+*.qws
+*.rpt
+*.qsf.bak
+*.force_relink
