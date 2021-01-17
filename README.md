@@ -1,6 +1,6 @@
 # ECE385-Final-Project
 
-You are not allowed to copy anything from this repository without explicit citing, especially if you are a ZJUI of UIUC student who is taking this course.
+<strong>You are not allowed to copy anything from this repository without explicit citing, especially if you are a ZJUI of UIUC student who is taking this course.</strong>
 
 <h3>FPGA based Game Design: Fruit Ninja</h3>
 <ul>
